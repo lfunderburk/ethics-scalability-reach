@@ -1,6 +1,6 @@
 # Ética en inteligencia artificial: una introducción a Fairlearn
 
-Material de instrucción para SciPy Lat 2021
+Material de instrucción cubriendo una introducción a ética en inteligencia artificial y al paquete Fairlearn.
 
 ## Cómo acceder el material (binder)
 
